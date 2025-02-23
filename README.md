@@ -17,5 +17,5 @@ This project uses predictive analytics and machine learning to forecast UFC figh
 View Code on GitHub | Download Case Study
 
 Contact
-Feel free to reach out via email at noah.vaknin@email.com or connect with me on LinkedIn at linkedin.com/in/noah-vaknin-binghamton2024.
+Feel free to reach out via email at noahvaknin2@gmail.com or connect with me on LinkedIn at linkedin.com/in/noah-vaknin-binghamton2024.
 
